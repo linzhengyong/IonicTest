@@ -1,3 +1,4 @@
- userName: test/wlg
+user:
+    userName: test
     sex: 男
     age: 18
